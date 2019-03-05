@@ -1,0 +1,12 @@
++++
+title = "Making group work bearable"
+date = 2010-09-14T23:08:00Z
+updated = 2010-09-16T10:55:11Z
+tags = ["education", "teaching and learning"]
+blogimport = true 
+[author]
+	name = "Ingrid"
+	uri = "https://www.blogger.com/profile/06189901588736133179"
++++
+
+As an undergraduate, I always dreaded group work.  Being an introvert, I always preferred to do things on my own, especially when I didn't know my group members. The first phase of group work is the worst (in my opinion)--getting to know each other and revealing our egos. Who are these people? Do you like them? Can you work with them? Do you connect, or exist on completely different planes?<br /><br />I went to a workshop last summer where they demonstrated a wonderful little teaching tool to make group work not only bearable, but also personally rewarding (click and zoom in to read):<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_4trfRnvfQcM/TJAsBOWRfNI/AAAAAAAAADU/paFbSVbNtJA/s1600/group+behaviours.jpg"><img style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 247px; height: 320px;" src="http://4.bp.blogspot.com/_4trfRnvfQcM/TJAsBOWRfNI/AAAAAAAAADU/paFbSVbNtJA/s320/group+behaviours.jpg" alt="" id="BLOGGER_PHOTO_ID_5516957943071866066" border="0" /></a>The idea is that you gets your students to form their groups in class. When they are sitting in their groups, you give them this one-pager and ask them to each identify one Constructive Group Behaviour that they know themselves to exhibit. The students then share their responses within their groups. Immediately, each individual knows one of their personal strengths, one of the ways they can contribute to the group.<br /><br />You then do the same for the Destructive Group Behaviours.  With this category, you tell the students that their fellow group members can (nicely) call them out on their "bad" behaviours, when and if they start displaying them. In this way, every student feels more accountable about their words and actions. They have self-identified one interpersonal skill that they can work on, and everyone else in the group is there to help them with it. In return, they help their fellow group members with theirs.<br /><br />In my experience, this activity creates a "safe space". The students drink in the supportive environment and use it for academic as well as personal learning. Almost magically, the introverts talk more and the extraverts talk less...and the group work becomes more like teamwork.

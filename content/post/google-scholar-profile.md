@@ -1,0 +1,12 @@
++++
+title = "Google Scholar profile"
+date = 2011-08-03T13:55:00Z
+updated = 2011-08-03T13:55:35Z
+tags = ["publications", "news", "science", "Karl Cottenie"]
+blogimport = true 
+[author]
+	name = "Karl Cottenie"
+	uri = "https://plus.google.com/116634918193112072853"
++++
+
+<span class="Apple-style-span" style="font-family: Arial; font-size: 13px;">Nature has a <a href="http://www.nature.com/news/2011/110802/full/476018a.html">news article on 2 free alternatives to Web of Science</a>, including your personal citation library. Another example of serendipity, because I created one a couple of days before the nature publication, and planned to wanted to dedicate a short blog to it, i.e., this one.&nbsp;</span><br /><br /><ul><li><span class="Apple-style-span" style="font-family: Arial;"><span class="Apple-style-span" style="font-size: x-small;">You can access mine here:&nbsp;</span></span><span class="Apple-style-span" style="font-family: Arial; font-size: 13px;"><a href="http://scholar.google.com/citations?user=lL7RlhMAAAAJ">http://scholar.google.com/citations?user=lL7RlhMAAAAJ</a>. Below is a 2011 snapshot picture:</span></li></ul><div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-mcTDngKpZOk/TjmJa5AQg2I/AAAAAAAAMXk/3lIXCAzr0fM/s1600/Picture+5.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="75" src="http://1.bp.blogspot.com/-mcTDngKpZOk/TjmJa5AQg2I/AAAAAAAAMXk/3lIXCAzr0fM/s400/Picture+5.png" width="400" /></a></div><ul><li>For reference, here is screen capture of the "official" Web of Science summary:</li></ul><div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-Xa9FdwwAsZs/TjmJB1XzFzI/AAAAAAAAMXg/gnYOTlVBe-k/s1600/Picture+4.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="175" src="http://3.bp.blogspot.com/-Xa9FdwwAsZs/TjmJB1XzFzI/AAAAAAAAMXg/gnYOTlVBe-k/s400/Picture+4.png" width="400" /></a></div><div class="separator" style="clear: both; text-align: left;">Very similar, if you ask me, although the Google Scholar obviously includes more items. For instance, conference abstracts are included, and also the <a href="http://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=lL7RlhMAAAAJ&amp;cstart=20&amp;citation_for_view=lL7RlhMAAAAJ:IWHjjKOFINEC">individual chapters of my PhD thesis</a>! My past will haunt me forever.</div><div><br /></div>

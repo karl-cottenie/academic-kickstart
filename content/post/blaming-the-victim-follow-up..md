@@ -1,0 +1,12 @@
++++
+title = "Blaming the victim, follow-up."
+date = 2017-07-19T11:07:00Z
+updated = 2017-07-19T11:07:08Z
+tags = ["grad school"]
+blogimport = true 
+[author]
+	name = "Karl Cottenie"
+	uri = "https://plus.google.com/116634918193112072853"
++++
+
+<span style="background-color: white; color: #2c2727; font-family: Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;">As expected, I was not the only one providing some push back to the Nature Jobs article&nbsp;</span><a href="http://www.cottenielab.org/2017/05/blaming-victim.html" style="background: rgb(255, 255, 255); border-bottom: 1px solid; box-sizing: border-box; color: #2174bb; font-family: Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-decoration-line: none;">I discussed previously</a><span style="background-color: white; color: #2c2727; font-family: Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;">. Together, they make reasonable suggestions, both towards the supervisor, and the university. The&nbsp;</span><a href="https://www.nature.com/nature/journal/v545/n7653/full/545158b.html" style="background: rgb(255, 255, 255); border-bottom: 1px solid; box-sizing: border-box; color: #2174bb; font-family: Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-decoration-line: none;">first one by D. A. McDonald</a>&nbsp;<span style="background-color: white; color: #2c2727; font-family: Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;">acknowledges that supervisors should be open aware of all aspects of their graduate students' lives ("what they do when they are not in the lab"). The&nbsp;</span><a href="https://www.nature.com/nature/journal/v545/n7653/full/545158a.html" style="background: rgb(255, 255, 255); border-bottom: 1px solid; box-sizing: border-box; color: #2174bb; font-family: Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-decoration-line: none;">second one by D. Mehta and K. Vavitsas</a><span style="background-color: white; color: #2c2727; font-family: Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;">&nbsp;point out institutional resources that can help tackle one of the root problems ("providing more courses and resources to train principal investigators in management and leadership"). I wonder what the participation rate would be for UoG faculty if the university would offer these types of courses?</span>

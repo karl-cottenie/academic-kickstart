@@ -1,0 +1,12 @@
++++
+title = "Significance versus explanation"
+date = 2018-01-15T13:51:00Z
+updated = 2018-02-15T13:51:21Z
+tags = ["statistics"]
+blogimport = true 
+[author]
+	name = "Karl Cottenie"
+	uri = "https://plus.google.com/116634918193112072853"
++++
+
+Next time I have to teach the difference between explanation and significance, this will be my go-to example: "<a href="https://www.nature.com/articles/s41559-017-0442-x" target="_blank">Scientific aptitude better explains poor responses to teaching of evolution than psychological conflicts</a>" by Mead et al. in Nature Ecology &amp; Evolution.<br /><br />The article has several figures that look like this:<br /><div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-u3GC9EEJDcA/Wlz0mwsnJ-I/AAAAAAADCMw/QDTkJoUdUhY8i3CS7ZCncrxcttjT2mu7ACLcBGAs/s1600/Screen%2BShot%2B2018-01-15%2Bat%2B1.35.19%2BPM.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="402" data-original-width="373" height="400" src="https://1.bp.blogspot.com/-u3GC9EEJDcA/Wlz0mwsnJ-I/AAAAAAADCMw/QDTkJoUdUhY8i3CS7ZCncrxcttjT2mu7ACLcBGAs/s400/Screen%2BShot%2B2018-01-15%2Bat%2B1.35.19%2BPM.png" width="370" /></a></div>The P-value looks amazing (9 x 10^-15), but the spread is equally large. I would not even want to guess what the R-square of that relationship is. The authors in the figure legend also specify that:<br /><blockquote class="tr_bq">"The regression line is the best-fit line of y predicted by x. However, as assumptions of linear regression are not fully met it is provided for illustrative purposes alone to indicate the trend."</blockquote>Good point, because without that line it would be impossible to tell what the relationship would be, which is always a dire sign. But those two sentences should be part of a master class in scientific writing: Necessary, to the point, anticipating a reader's needs and confusion, packaged in a short and succinct statement.<br /><br />This study works perfectly well in a hypothetico-deductive framework with well-laid out hypotheses, logical predictions, and strong and convincing statistical tests. It also leaves the reader (or some of the readers, for instance me) with this "but is it really important?" question. I could not find any mention of this variability issue, and only lots of highly significant p-values.&nbsp; What is actually the best explanation of these students' evolutionary understanding?

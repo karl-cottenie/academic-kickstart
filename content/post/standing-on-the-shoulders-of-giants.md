@@ -1,0 +1,12 @@
++++
+title = "Standing on the shoulders of giants"
+date = 2017-02-03T14:03:00Z
+updated = 2017-02-03T14:08:14Z
+tags = ["statistics"]
+blogimport = true 
+[author]
+	name = "Karl Cottenie"
+	uri = "https://plus.google.com/116634918193112072853"
++++
+
+I am currently teaching a graduate "Stats" course, which is more a historical exploration of statistical issues in ecology, led by grad students. As part of the course, we are also exploring best practices in R and ecological data management. So naturally we covered <a href="https://dynamicecology.wordpress.com/2016/08/22/ten-commandments-for-good-data-management/" target="_blank">Brian McGill's 10 commandments for good data management</a>, and his <a href="https://dynamicecology.wordpress.com/2016/08/23/sample-r-code-for-yesterdays-10-commandments-post/" target="_blank">follow-up post</a> with an example application of these recommendations with a toy data set.<br />I decided afterwards to do the challenge, and with our weekly University of Guelph R Users group (UGRU) we walked through the code line by line, and discussed why certain lines were included, alternative ways to code them, advantages and disadvantages of these alternative approaches. It took us 3 hours of exploration, and I have captured our discussion in an alternative R script file, where our notes are preceded by "###" to differentiate them from Brian's comments.<br /><br />Here is a link to this updated script file:&nbsp;<a href="https://drive.google.com/open?id=0B6C_pml53BPUQ1JKWV96NDFFVUU">https://drive.google.com/open?id=0B6C_pml53BPUQ1JKWV96NDFFVUU</a><br /><br />Here is a summary of some of our observations:<br /><br /><ul><li>The tidyverse package makes everything easy</li><li>read_csv is preferable over read.csv</li><li>tibbles are the way to go</li><li>reproducible code is very difficult (paths to files, outdated packages)</li><li>different philosophies with respect to keeping/creating intermediate files, and the value of long versus short file names</li><li>the flexibility of ggplot is awesome, and just as in base R, there are multiple ways to reach the same goal</li><li>and the biggest revelation for some of us: when you are piping, and your code is structured in multiple lines, you can still execute the whole block with one cmd/ctr-enter, without the need to highlight the block or step through it line by line!</li></ul><div>Thank you Brian for the nice tutorial, RStudio for the functionality, and Maddie for the cmd-enter combination in a piping block, coding will be so much more efficient now.</div>
