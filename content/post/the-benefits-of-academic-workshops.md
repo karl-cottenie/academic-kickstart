@@ -1,5 +1,5 @@
 +++
-title = "The benefits of academic workshops?"
+title = "The benefits of academic workshops!"
 date = 2018-05-10T14:07:00Z
 updated = 2018-05-10T14:07:17Z
 tags = ["grad school"]
