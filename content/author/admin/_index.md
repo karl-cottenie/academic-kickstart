@@ -82,10 +82,10 @@ user_groups = ["Principal Investigators"]
   icon_pack = "fas"
   link = "mailto:cottenie@uoguelph.ca"  # For a direct email link, use "mailto:test@example.org".
 
-# [[social]]
-#   icon = "twitter"
-#   icon_pack = "fab"
-#   link = "https://twitter.com/GeorgeCushen"
+ [[social]]
+   icon = "open-access"
+   icon_pack = "ai"
+   link = "https://atrium.lib.uoguelph.ca/xmlui/discover?scope=%2F&query=cottenie&submit=Go&rpp=10"
 
 [[social]]
   icon = "google-scholar"
