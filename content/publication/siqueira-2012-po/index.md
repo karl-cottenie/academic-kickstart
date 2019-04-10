@@ -1,0 +1,13 @@
++++
+title = "A Metacommunity Framework for Enhancing the Effectiveness of Biological Monitoring Strategies"
+date = 2012-08-01
+authors = ["Tadeu Siqueira", "Luis M. Bini", "Fabio O. Roque", "Karl Cottenie"]
+publication_types = ["2"]
+abstract = "Because of inadequate knowledge and funding, the use of biodiversity indicators is often suggested as a way to support management decisions. Consequently, many studies have analyzed the performance of certain groups as indicator taxa. However, in addition to knowing whether certain groups can adequately represent the biodiversity as a whole, we must also know whether they show similar responses to the main structuring processes affecting biodiversity. Here we present an application of the metacommunity framework for evaluating the effectiveness of biodiversity indicators. Although the metacommunity framework has contributed to a better understanding of biodiversity patterns, there is still limited discussion about its implications for conservation and biomonitoring. We evaluated the effectiveness of indicator taxa in representing spatial variation in macroinvertebrate community composition in Atlantic Forest streams, and the processes that drive this variation. We focused on analyzing whether some groups conform to environmental processes and other groups are more influenced by spatial processes, and on how this can help in deciding which indicator group or groups should be used. We showed that a relatively small subset of taxa from the metacommunity would represent 80% of the variation in community composition shown by the entire metacommunity. Moreover, this subset does not have to be composed of predetermined taxonomic groups, but rather can be defined based on random subsets. We also found that some random subsets composed of a small number of genera performed better in responding to major environmental gradients. There were also random subsets that seemed to be affected by spatial processes, which could indicate important historical processes. We were able to integrate in the same theoretical and practical framework, the selection of biodiversity surrogates, indicators of environmental conditions, and more importantly, an explicit integration of environmental and spatial processes into the selection approach."
+featured = false
+publication = "*PLOS ONE*"
+tags = ["Biodiversity", "Community ecology", "Community structure", "Conservation science", "Ecological niches", "Eigenvectors", "Forests", "Taxonomy"]
+url_pdf = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0043626"
+doi = "10.1371/journal.pone.0043626"
++++
+

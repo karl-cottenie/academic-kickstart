@@ -1,0 +1,12 @@
++++
+title = "The effects of roads on habitat selection and movement patterns of the American badger subspecies Taxidea taxus jacksoni in Ontario, Canada"
+date = 2017-07-01
+authors = ["Julia Sunga", "Josh Sayers", "Karl Cottenie", "Christopher J. Kyle", "Danielle M. Ethier"]
+publication_types = ["2"]
+abstract = "Road mortality is identified as a threat to American badger (Taxidea taxus (Schreber, 1777)) populations across Canada. Understanding habitat selection and movement in relation to roads is therefore vital to their conservation. Using telemetry data and road-kill locations of badgers in southwestern Ontario, we examined the relationship between habitat selection, movement patterns, and roads at three spatial scales. At the study-area scale, we assessed the effects of habitat attributes on burrow site selection. Several individuals placed their burrows closer to primary highways than expected, suggesting that badgers are not sensitive to human disturbances at this scale. Using straight-line movement trajectories between burrows, we analyzed individual movement patterns within home ranges. All badgers showed some degree of road avoidance, either crossing fewer roads or roads that posed lower mortality risk. At the road-crossing scale, we compared landscape features surrounding road-kill locations to random l..., La mortalité routière constitue une menace pour les populations de blaireaux d’Amérique (Taxidea taxus (Schreber, 1777)) partout au Canada. La compréhension de la sélection d’habitats et des déplacements des blaireaux par rapport aux routes revêt donc une importance vitale pour leur conservation. En utilisant des données de télémétrie et les emplacements d’individus tués sur des routes dans le sud-ouest de l’Ontario, nous avons examiné le lien entre la sélection d’habitats, les motifs de déplacement et les routes à trois échelles spatiales. À l’échelle de la région d’étude, nous avons évalué les effets d’attributs de l’habitat sur la sélection de l’emplacement des terriers. Plusieurs individus avaient positionné leurs terriers plus près de routes principales que prévu, donnant à penser que les blaireaux ne sont pas sensibles aux perturbations d’origine humaine à cette échelle. En utilisant les trajectoires de déplacement en ligne droite entre terriers, nous avons analysé les motifs de déplacement individu..."
+featured = false
+publication = "*Canadian Journal of Zoology*"
+url_pdf = "https://www.nrcresearchpress.com/doi/full/10.1139/cjz-2016-0286"
+doi = "10.1139/cjz-2016-0286"
++++
+

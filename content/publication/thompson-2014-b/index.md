@@ -1,0 +1,12 @@
++++
+title = "Mucilage reduces leaf herbivory in Schreber’s watershield, Brasenia schreberi J.F. Gmel. (Cabombaceae)"
+date = 2014-02-01
+authors = ["K.A. Thompson", "D.M. Sora", "K.S. Cross", "J.M. St. Germain", "K. Cottenie"]
+publication_types = ["2"]
+abstract = "Insect herbivores negatively affect plants by consuming biomass that could otherwise be used for growth or reproduction. To reduce their impact, plants have evolved a wide range of antiherbivore defenses. Schreber’s watershield (Brasenia schreberi J.F. Gmel.; Cabombaceae) is a freshwater, aquatic plant that produces a thick mucilage on the underside of leaves and all underwater organs. The mucilage has been proposed as a mechanism of defense against herbivory, but this hypothesis is untested. We conducted a comparative study to determine whether the quantity of mucilage on the underside of leaves is associated with herbivore damage on the leaves. We found that leaves with the thickest mucilage layer were the least damaged. To determine whether mucilage is directly responsible for defense against herbivores, we conducted a manipulative study where we removed the mucilage from the abaxial surface of leaves. We found that demucilated leaves experienced higher amounts of herbivore damage than leaves with thei..., Les insectes herbivores affectent négativement les plantes en consommant une biomasse qui pourrait, autrement, être utilisée aux fins de croissance ou de reproduction. Afin de réduire leur impact, les plantes ont développé au cours de l’évolution un large spectre de défenses contre les herbivores. La brasénie de Schreber (Brasenia schreberi J.F. Gmel.; Cabombaceae) est une plante aquatique d’eau douce qui produit un mucilage épais à l’envers de ses feuilles et sur tous les organes submergés. On propose que le mucilage constitue un mécanisme de défense contre les herbivores, mais cette hypothèse n’a pas été vérifiée. Nous avons réalisé une étude comparative afin de déterminer si la quantité de mucilage à l’envers des feuilles est associée au dommage causé aux feuilles par les herbivores. Nous avons trouvé que les feuilles comportant la couche de mucilage la plus épaisse étaient les moins endommagées. Afin de déterminer si le mucilage est directement responsable de la défense contre les herbivores, nous avo..."
+featured = false
+publication = "*Botany*"
+url_pdf = "https://www.nrcresearchpress.com/doi/full/10.1139/cjb-2013-0296"
+doi = "10.1139/cjb-2013-0296"
++++
+

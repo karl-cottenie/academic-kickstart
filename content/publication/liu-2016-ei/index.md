@@ -1,0 +1,13 @@
++++
+title = "Different roles of environmental variables and spatial factors in structuring stream benthic diatom and macroinvertebrate in Yangtze River Delta, China"
+date = 2016-02-01
+authors = ["Shuoru Liu", "Gengxin Xie", "Lizhu Wang", "Karl Cottenie", "Dongxiao Liu", "Beixin Wang"]
+publication_types = ["2"]
+abstract = "Exploring the relative contribution of spatial factors and environmental variables in shaping communities is of widespread interest in biodiversity conservation and environmental management. Stream communities are hierarchically regulated by environmental variables over multiple spatial scales, and the reaction of different organisms to stressors are still equivocal. We sampled both macroinvertebrates and diatom at 80 sites and additional 10 sites for macroinvertebrates, field measured and laboratory analyzed environmental variables, from the tributaries of Qiantang River, Yangtze River Delta China in 2011. We used PCNM (principal coordinates of neighbor matrices) to generate spatial predictors. We applied redundancy analysis and variation partitioning procedures to identify key spatial and environmental factors, and to quantify their relative roles in shaping diatom and macroinvertebrate assemblages. Our results demonstrated the role of spatial and environmental variables differed in shaping benthic diatom and macroinvertebrate. Diatom assemblage variations were better explained by spatial factors, however macroinvertebrate assemblage variations were better explained by environmental variables. In terms of environmental variables, catchment scale variables (e.g., land use estimators, land use diversity) played the primary role in determining the patterns of both diatom and macroinvertebrate assemblages, whereas the influence of reach-scale variables (e.g., pH, substrates, and nutrients) appeared less. However, nutrients were the stronger factors influencing benthic diatom, whereas physical habitat (e.g., substrates) played more important role than water chemistry in structuring macroinvertebrates. Our results provided more evidence to the incorporation of spatial factors interpreting spatial patterns of stream organisms, and highlighted the useful of multiple organisms and environmental variables at different spatial scales in diagnosing mechanism of stream degradation and in building a sound stream conditions monitoring program for Yangtze River Delta."
+featured = false
+publication = "*Ecological Indicators*"
+tags = ["Environmental variable", "Qiantang River", "Spatial factor", "Stream community"]
+url_pdf = "http://www.sciencedirect.com/science/article/pii/S1470160X15005464"
+doi = "10.1016/j.ecolind.2015.10.011"
++++
+
