@@ -29,7 +29,8 @@ interests = [
   "Data Analysis in R",
   "Instruction",
   "Graduate Training",
-  "Spatial/Temporal Analysis"
+  "Spatio-temporal Analysis",
+  "Computational Ecology"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -37,10 +38,10 @@ interests = [
 user_groups = ["Principal Investigators"]
 
 # List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "PhD in Ecology"
-  institution = "K.U.Leuven"
-  year = 2012
+ [[education.courses]]
+   course = "Facilitator Development Workshop"
+   institution = "University of Guelph"
+   year = 2019
 
  [[education.courses]]
    course = "Post-Graduate Student Supervision"
@@ -51,11 +52,6 @@ user_groups = ["Principal Investigators"]
    course = "Instructional Skills Workshop"
    institution = "University of Guelph"
    year = 2018
-
- [[education.courses]]
-   course = "Facilitator Development Workshop"
-   institution = "University of Guelph"
-   year = 2019
    
  [[education.courses]]
    course = "PhD Ecology"

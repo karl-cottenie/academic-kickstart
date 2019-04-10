@@ -57,7 +57,8 @@ address = "SSC 2470, University of Guelph, Guelph, ON, N1G 2W1, Canada"
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = '''To set-up an appointment with me, email me with a non-busy time slot,
 Monday to Friday, 9:30 AM - 4:30 PM from the below calendar <br>
-https://calendar.google.com/calendar?cid=a2FybC5jb3R0ZW5pZUBnbWFpbC5jb20
+https://calendar.google.com/calendar/embed?src=karl.cottenie%40gmail.com&ctz=America%2FToronto <br>
+In the upper right corner, click on "Week" to see an easier overview.
 '''
 
 
