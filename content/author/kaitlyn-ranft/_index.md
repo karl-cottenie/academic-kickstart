@@ -9,7 +9,7 @@ authors = ["kaitlyn-ranft"]
 superuser = false
 
 # Role/position
-role = "undergraduate research project"
+role = "Undergraduate research project"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
