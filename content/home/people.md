@@ -12,7 +12,9 @@ weight = 68
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
 user_groups = ["Principal Investigators",
-               "Grad Students",
+               "Current Grad Students",
+               "Current Undergrad Students",
                "Visitors",
-               "Alumni"]
+               "Alumni Grad Students",
+               "Alumni Undergrad Students"]
 +++

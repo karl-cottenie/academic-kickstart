@@ -16,7 +16,7 @@ role = "PhD student"
 organizations = [ { name = "Integrative Biology, University of Guelph", url = "https://www.uoguelph.ca/ib/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am XXX."
+bio = "I am YYY."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -27,12 +27,12 @@ interests = [
   "Metacommunity dynamics",
   "Molecular Identification",
   "Data Analysis in R",
-  "XXX"
+  "YYY"
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Grad Students"]
+user_groups = ["Current Grad Students"]
 
 # List qualifications (such as academic degrees)
   
@@ -77,3 +77,8 @@ user_groups = ["Grad Students"]
 +++
 
 I am PhD student in the Integrative Biology department co-supervised by Karl Cottenie and Bob Hanner. My two major research interests are community ecology and aquatic entomology, with a focus on impacted ecosystems and bioindicator taxa. I am currently exploring the influence of farming intensity on aquatic insect communities in riverine systems and developing protocols to use environmental DNA (eDNA) for both bioassessments and community analyses. Prior to starting my PhD, I completed a BSc in Biology (Zoology major) at the University of Guelph in 2012. I first became involved in research through the undergraduate thesis program, where I completed a project exploring the functional morphology of damselfly nymphs under different predation regimes. After that, I worked as a lab and field technician for three years at the Biodiversity Institute of Ontario where I was responsible for collecting insects in National Parks across Canada, sorting and identifying specimens, and collaborating with researchers at other insect collections. Interested in developing my skills as a researcher, I left to pursue graduate school and in 2017, I completed my MSc in wetland ecology at the University of Waterloo. My MSc thesis examined the effect of agricultural land use and wetland permanence on aquatic macroinvertebrate communities and diversity patterns in Alberta's prairie pothole wetlands. 
+
+* Gleason, J.E.*, Bortolotti, J.Y., and Rooney, R.C (Accepted Dec 23rd 2017, in press) Wetland microhabitats support distinct communities of aquatic macroinvertebrates. Journal of Freshwater Ecology
+* Gleason, J.E.*, and Rooney, R.C (Accepted Nov 3rd 2017, available online) Pond permanence is a key determinant of aquatic macroinvertebrate community structure in wetlands. Freshwater Biology. doi: 10.1111/fwb.13057
+* Gleason, J.E.*, and Rooney, R.C. (2017) Aquatic invertebrates are poor indicators of surrounding land use in Northern Prairie Pothole wetlands. Ecological Indicators. 81: 333-339. doi: 10.1016/j.ecolind.2017.06.013
+* Gleason, J.E.*, Fudge, D.S., and Robinson, B.W. (2014) Eco-mechanics of lamellar autotomy in larval damselflies. Journal of Experimental Biology. 217: 185-191. doi: 10.1242/jeb.091827
