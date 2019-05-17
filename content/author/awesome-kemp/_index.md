@@ -1,15 +1,15 @@
 +++
 # Display name
-name = "Thiago Goncalves-Souza"
+name = "Awesome Kemp"
 
 # Username (this should match the folder name)
-authors = ["Thiago-goncalvessouza"]
+authors = ["awesome-kemp"]
 
 # Is this the primary user of the site?
 superuser = false
 
 # Role/position
-role = "PhD student, 9 months with Sandwich exchange program"
+role = "Guide dog"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -23,9 +23,11 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Ecology",
-  "Statistics (R)",
-  "Conservation"
+  "Running",
+  "Playing",
+  "Napping",
+  "Treats"
+  
 ]
 
 # Organizational groups that you belong to (for People widget)

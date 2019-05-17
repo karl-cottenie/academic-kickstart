@@ -23,7 +23,9 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  
+  "Analysing Data through R",
+"Python and Perl programming",
+"Machine Learning"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -71,5 +73,5 @@ user_groups = ["Current Grad Students"]
 #   link = "files/cv.pdf"
 
 +++
-
+I am an M.Binf student in the Integrative Biology department. I am currently working on my final project that involves comparing OTU clustering thresholds and filtering algorithms in an eDNA metabarcoding dataset under the supervision of Karl Cottenie. Prior to starting my M.Binf at the University of Guelph, I completed a Bachelor’s in Engineering in Information Science from the Visvesvaraya Technological University, Bangalore, India in 2010. Later I completed a M.Tech degree in Bioinformatics from PES Institute of Technology, Bangalore, India in 2012. During my senior year of MTech program, I channelled my interest towards research and development of new potential drugs that could easily pass the low permeable membrane of mycobacterium tuberculosis to reach active sites to treat this devastating disease.  Working with my research supervisor Dr. Nagasuma Chandra of the research institution - Indian Institute of Science in Bangalore developed my strength and inclination towards this research stream and my final year MTech project was titled: “Computational Insights of Protein Channels in Mycobacterium Tuberculosis.” I had to put a temporary pause to my passion for Bioinformatics overwhelmed by the nitty gritty demands of everyday living which led me to work as a Software Engineer for IBM India Pvt Ltd in their Telecommunication and Retail sector for the past five years. This employment in information technology gave me an opportunity to recognize the importance of working in a diversely-capable team. However, my interest and inclination to understand and contribute my abilities to the field of Bioinformatics and to be an active participant of the amazing boom of this technology brought me to the University of Guelph as I felt that the M.Binf program is in alignment with my aspirations and provides the required opportunities to become an expert in the core competencies of Bioinformatics.
 

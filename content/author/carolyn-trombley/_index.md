@@ -24,9 +24,8 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Ecology",
-  "Statistics (R)",
-  "Conservation",
-  "YYY"
+  "Statistics \\(R)",
+  "Conservation"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -51,20 +50,20 @@ user_groups = ["Current Grad Students"]
 #    icon_pack = "ai"
 #    link = "https://atrium.lib.uoguelph.ca/xmlui/discover?scope=%2F&query=cottenie&submit=Go&rpp=10"
 # 
-# [[social]]
-#   icon = "google-scholar"
-#   icon_pack = "ai"
-#   link = "https://scholar.google.com/citations?user=lL7RlhMAAAAJ&hl=en&oi=ao"
-# 
-# [[social]]
-#   icon = "github"
-#   icon_pack = "fab"
-#   link = "https://github.com/karl-cottenie"
-#   
-# [[social]]
-#   icon = "orcid"
-#   icon_pack = "ai"
-#   link = "https://orcid.org/0000-0001-9498-8483"  
+[[social]]
+  icon = "instagram"
+  icon_pack = "fab"
+  link = "https://instagram.com/CaroTrombley"
+
+ [[social]]
+   icon = "twitter"
+   icon_pack = "fab"
+   link = "https://twitter.com/CaroTrombley"
+   
+ [[social]]
+   icon = "orcid"
+   icon_pack = "ai"
+   link = "https://orcid.org/0000-0003-1077-7713"  
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -74,5 +73,13 @@ user_groups = ["Current Grad Students"]
 #   link = "files/cv.pdf"
 
 +++
+I’m a PhD student at the University of Guelph, coadvised by Karl Cottenie (University of Guelph) and Astrid Schwalb (Texas State University). I use a multi-year dataset of fish abundances in the Virgin River to ask questions about species invasion and extinction.
 
+The Virgin River is a perennial desert river that runs through the American southwest, rising in the mountains around Zion National Park in Utah and flowing through Utah, Arizona, and Nevada, where it empties into Lake Mead (Nevada). The Virgin River is home to 6 endemic fish species and 13 non-native fish species. Using an almost 30 year dataset, I use statistical methods and ecological theory to investigate the potential reasons why the woundfin (Plagopterus argentissimus) has almost become extinct.
+
+While not working on my thesis, I also maintain the teaching collections of living organisms for my department. Right now we have a lot of fun and interesting things, including Madagascar hissing cockroaches, giant African land snails, knifefish, and an assortment of invertebrates in our tropical tank.
+
+In addition to my paid work, I also have several service and outreach activities. Within the department, I’m a co-founder and the current chair of iBUMP (the Integrative Biology Undergraduate Mentorship Program), and serve on several departmental committees. In the community I volunteer with the Lion’s Foundation of Canada (I just finished fostering a guide puppy, Kemp), Let's Talk Science, and the Guelph chapter of the McMaster Children and Youth University.
+
+Visit my website <https://CarolynTrombley.com> for updates on my work and outreach, and for links to free to read versions of my papers.
 

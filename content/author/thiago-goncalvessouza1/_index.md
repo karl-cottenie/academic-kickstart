@@ -1,15 +1,15 @@
 +++
 # Display name
-name = "Simon Denomme-Brown"
+name = "Thiago Goncalves-Souza"
 
 # Username (this should match the folder name)
-authors = ["simon-denommebrown"]
+authors = ["thiago-goncalvessouza1"]
 
 # Is this the primary user of the site?
 superuser = false
 
 # Role/position
-role = "PhD student"
+role = "PhD student, 9 months with Sandwich exchange program"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -23,15 +23,14 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Dispersal",
-"Population and Community Synchrony",
-"Metacommunity Dynamics",
-"Statistical Analysis and Data Management in R"
+  "Ecology",
+  "Statistics \\(R)",
+  "Conservation"
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Current Grad Students"]
+user_groups = ["Alumni Grad Students"]
 
 # List qualifications (such as academic degrees)
   
@@ -41,15 +40,15 @@ user_groups = ["Current Grad Students"]
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-[[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "mailto:sdenommebrown@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+# [[social]]
+#   icon = "envelope"
+#   icon_pack = "fas"
+#   link = "mailto:cottenie@uoguelph.ca"  # For a direct email link, use "mailto:test@example.org".
 # 
- [[social]]
-   icon = "twitter"
-   icon_pack = "fab"
-   link = "https://twitter.com/si_denbro"
+#  [[social]]
+#    icon = "open-access"
+#    icon_pack = "ai"
+#    link = "https://atrium.lib.uoguelph.ca/xmlui/discover?scope=%2F&query=cottenie&submit=Go&rpp=10"
 # 
 # [[social]]
 #   icon = "google-scholar"
@@ -75,4 +74,4 @@ user_groups = ["Current Grad Students"]
 
 +++
 
-I am a PhD candidate in Integrative Biology supervised by Dr.’s Karl Cottenie and Andrew McAdam. I completed my undergraduate degree in Ecology at University of Guelph in 2012. During my degree I completed undergraduate research projects assessing the status of at risk butterfly populations, as well as the effect that Emerald Ash Borer caused tree death had on the structure of local song-bird communities. I began my graduate studies at Guelph as an MSc. student in 2014 and transferred into program in 2016. My work involves the continued collection and use of over 50 years of small mammal abundance data collected in Algonquin Provincial Park. I am currently interested in how variation in both conspecific and heterospecific population densities can affect an animal’s dispersal decisions, and whether these density-dispersal relationships can vary in strength or direction over long temporal scales. As well, I aim to examine whether these fluctuations in rates of dispersal, along with large-scale environmental variation, can contribute to the strength of population and community synchrony within a meta-ecological framework.  
+
