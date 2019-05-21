@@ -1,9 +1,9 @@
 +++
 # Display name
-name = "Kaitlyn Ranft"
+name = "Katy Jay"
 
 # Username (this should match the folder name)
-authors = ["kaitlyn-ranft"]
+authors = ["katy-jay"]
 
 # Is this the primary user of the site?
 superuser = false
@@ -71,5 +71,6 @@ user_groups = ["Alumni Undergrad Students"]
 #   link = "files/cv.pdf"
 
 +++
-Project title: Small mammal body mass and capture probability
+Project title: Trait based metacommunity dynamics
+
 

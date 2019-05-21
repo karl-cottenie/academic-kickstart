@@ -1,9 +1,9 @@
 +++
 # Display name
-name = "Kaitlyn Ranft"
+name = "Aaron Zolderdo"
 
 # Username (this should match the folder name)
-authors = ["kaitlyn-ranft"]
+authors = ["aaron-zolderdo"]
 
 # Is this the primary user of the site?
 superuser = false
@@ -71,5 +71,7 @@ user_groups = ["Alumni Undergrad Students"]
 #   link = "files/cv.pdf"
 
 +++
-Project title: Small mammal body mass and capture probability
+Project title: Variation in upland habitat differentially affects wetland
+Anurans in Algonquin Provincial Park: implications for timber harvest.
+
 

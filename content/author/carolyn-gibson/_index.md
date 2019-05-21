@@ -1,9 +1,9 @@
 +++
 # Display name
-name = "Kaitlyn Ranft"
+name = "Carolyn Gibson"
 
 # Username (this should match the folder name)
-authors = ["kaitlyn-ranft"]
+authors = ["carolyn-gibson"]
 
 # Is this the primary user of the site?
 superuser = false
@@ -71,5 +71,5 @@ user_groups = ["Alumni Undergrad Students"]
 #   link = "files/cv.pdf"
 
 +++
-Project title: Small mammal body mass and capture probability
+Project title: Controls on understory species composition and vegetation carbon pools following wildfire in interior Alaska
 

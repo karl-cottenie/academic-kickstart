@@ -1,9 +1,9 @@
 +++
 # Display name
-name = "Kaitlyn Ranft"
+name = "RandeLee MacDonald"
 
 # Username (this should match the folder name)
-authors = ["kaitlyn-ranft"]
+authors = ["randell-macdonald"]
 
 # Is this the primary user of the site?
 superuser = false
@@ -71,5 +71,5 @@ user_groups = ["Alumni Undergrad Students"]
 #   link = "files/cv.pdf"
 
 +++
-Project title: Small mammal body mass and capture probability
+Project title: Impacts of livetrap sound intensity on shrew mortality rates
 

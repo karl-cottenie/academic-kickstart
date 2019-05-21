@@ -1,9 +1,9 @@
 +++
 # Display name
-name = "Kaitlyn Ranft"
+name = "Adam Marinelli"
 
 # Username (this should match the folder name)
-authors = ["kaitlyn-ranft"]
+authors = ["adam-marinelli"]
 
 # Is this the primary user of the site?
 superuser = false
@@ -71,5 +71,6 @@ user_groups = ["Alumni Undergrad Students"]
 #   link = "files/cv.pdf"
 
 +++
-Project title: Small mammal body mass and capture probability
+Project title: Quantifying riparian buffer widths and landscape variables in Ontario boreal lakes
+
 
