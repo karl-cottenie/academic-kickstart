@@ -3,7 +3,7 @@
 name = "Awesome Kemp"
 
 # Username (this should match the folder name)
-authors = ["awesome-kemp"]
+authors = ["_awesome-kemp"]
 
 # Is this the primary user of the site?
 superuser = false
@@ -75,5 +75,7 @@ user_groups = ["Alumni Grad Students"]
 #   link = "files/cv.pdf"
 
 +++
+Hi, my name is Kemp! 
 
+I started in the Cottenie lab in November 2017 and graduated a year later. While I was there, I researched the best places to take naps in the office and who had the best treats. I'm currently doing my next degree at the Lion's Foundation of Canada, where I will hopefully graduate and take on a job helping a Canadian with a disability. 
 
