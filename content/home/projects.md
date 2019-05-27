@@ -7,7 +7,7 @@ title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 30
 
 # Content.
 # Display content from the following folder.
@@ -39,14 +39,21 @@ filter_default = 0
  [[filter]]
    name = "All"
    tag = "*"
-#
-# [[filter]]
-#   name = "Deep Learning"
-#   tag = "Deep Learning"
-#
-# [[filter]]
-#   name = "Other"
-#   tag = "Demo"
+[[filter]]
+  name = "Research"
+  tag = "Research"
+[[filter]]
+    name = "Undergraduate"
+    tag = "Undergraduate"
+[[filter]]
+    name = "Graduate"
+    tag = "Graduate"
+[[filter]]
+    name = "Teaching"
+    tag = "Teaching"
+[[filter]]
+  name = "Other"
+  tag = "Demo"
 
 +++
 

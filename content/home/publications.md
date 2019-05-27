@@ -11,7 +11,7 @@ subtitle = ""
 weight = 20
 
 # Number of publications to list.
-count = 10
+count = 5
 
 # View.
 #   1 = List
