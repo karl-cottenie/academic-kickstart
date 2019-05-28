@@ -1,9 +1,9 @@
 +++
 # Display name
-name = "Awesome Kemp"
+name = "Kemp"
 
 # Username (this should match the folder name)
-authors = ["awesome-kemp"]
+authors = ["admirable-kemp"]
 
 # Is this the primary user of the site?
 superuser = false
