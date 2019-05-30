@@ -22,8 +22,9 @@ bio = "I am YYY."
 email = ""
 
 # List (academic) interests or hobbies
-interests = [
-  
+interests = ["Transposon Ecology",
+    "Python programming",
+    "Data analysis in R"
 ]
 
 # Organizational groups that you belong to (for People widget)
