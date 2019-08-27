@@ -22,7 +22,7 @@ categories = []
 
 Written by [Jennifer Gleason] (https://cottenielab.org/authors/jenny-gleason/)
 
-Yesterday was the 3rd annual Guelph Bug Day at the University of Guelph! Bug Day is an educational outreach event designed to teach people all about the diverse world of insects and other invertebrates. The event is primarily organized and run by graduate students, and features guided nature hikes, interactive booths, workshops, insect cuisine and highlights some of the invertebrate research happening at UofG.
+Yesterday was the third annual Guelph Bug Day at the University of Guelph! Bug Day is an educational outreach event designed to teach people all about the diverse world of insects and other invertebrates. The event is primarily organized and run by graduate students, and features guided nature hikes, interactive booths, workshops, insect cuisine and highlights some of the invertebrate research happening at UofG.
 
 Three Cottenie lab members participated in organizing Bug Day as team leads and spent the day teaching Bug Day attendees all about insects. [Carolyn Trombley](https://cottenielab.org/authors/carolyn-trombley/), the caretaker of the Integrative Biology department’s invertebrate collection, showed off her hissing cockroach wrangling skills.
 
