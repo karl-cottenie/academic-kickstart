@@ -53,3 +53,7 @@ What to expect with me as ....
 * [an undergraduate thesis advisor] (https://docs.google.com/document/d/150tgTLFDAKToVCDBJVJ0yjKHa_sSY8hhRomh1eXbEIs/edit?usp=sharing)
 * [an Advisory Committee member] (https://docs.google.com/document/d/1vfA5XCzYt8hLfUvP-a4Jw58ihyQJbq0eESMvS7BbXio/edit?usp=sharing)
 * [a collaborator] (https://docs.google.com/document/d/1_Bb9v9mnLwzXhxm_ogxu8p9TIBEgcUcZD0ciGmRcecw/edit?usp=sharing)
+
+Expectations from you as ...
+
+* [an Advisory Committee member for my graduate student](https://drive.google.com/open?id=18EWcgIfItJSdY0wEyd_qJzfIojHLKRdtx-9SejilC74)
