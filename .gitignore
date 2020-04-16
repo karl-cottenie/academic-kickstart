@@ -5,3 +5,5 @@ public/
 .Rhistory
 .RData
 content/.DS_Store
+.RData
+.Rhistory
