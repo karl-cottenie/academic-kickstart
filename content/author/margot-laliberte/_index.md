@@ -3,7 +3,7 @@
 name = "Margot Laliberte"
 
 # Username (this should match the folder name)
-authors = ["Margot Laliberte"]
+authors = ["margot_laliberte"]
 
 # Is this the primary user of the site?
 superuser = false
@@ -27,7 +27,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Current Undergrad Students"]
+user_groups = ["Alumni Undergrad Students"]
 
 # List qualifications (such as academic degrees)
   

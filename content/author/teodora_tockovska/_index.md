@@ -1,38 +1,35 @@
 +++
 # Display name
-name = "Fiona Persaud"
+name = "Teodora Tockovska"
 
 # Username (this should match the folder name)
-authors = ["fiona-persaud"]
+authors = ["teodora_tockovska"]
 
 # Is this the primary user of the site?
 superuser = false
 
 # Role/position
-role = "Undergraduate research project"
+role = "MSc student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Integrative Biology, University of Guelph", url = "https://www.uoguelph.ca/ib/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am YYY."
+bio = "I am Teodora Tockovska."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
-interests = ["Aquatic",
-"Ecology",
-"Conservation",
-"Molecular Identification",
-"Analysis in R",
-"Environmental Impacts"
+interests = ["Bioinformatics",
+    "Microbiology",
+    "Computer Programming and Data Analysis Using Python and R"
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Alumni Undergrad Students"]
+user_groups = ["Current Grad Students"]
 
 # List qualifications (such as academic degrees)
   
@@ -75,4 +72,6 @@ user_groups = ["Alumni Undergrad Students"]
 #   link = "files/cv.pdf"
 
 +++
-I am an undergraduate Bachelor of Science student at the University of Guelph, in the Marine and Freshwater Biology program. I am also completing a minor in geography, focusing mainly on environmental geography. My main research interest are in aquatic ecology and conservation.  I am part of the undergraduate thesis program, where I will be working along side Jennifer Gleason and my Advisor Karl Cottenie, conducting research using environmental DNA (eDNA) to address aquatic ecological concerns.
+
+I am a Master in Bio-informatics student based in the department of Integrative Biology at the University of Guelph, supervised by Dr. Karl Cottenie. 
+
