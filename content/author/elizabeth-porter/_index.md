@@ -22,8 +22,8 @@ bio = "I am Liz Porter."
 email = ""
 
 # List (academic) interests or hobbies
-interests = ["Behavioural ecology","
-  "Animal Physiology","
+interests = ["Behavioural Ecology",
+  "Animal Physiology",
   "Experiential Learning & Citizen Science",
   "Science Communication"
 ]

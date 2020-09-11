@@ -22,12 +22,11 @@ bio = "I am Kaelyn Racine."
 email = ""
 
 # List (academic) interests or hobbies
-interests = ["Ecosystem conservation"",
-  "Wildlife rehabilitation",
+interests = ["Ecosystem conservation",
+"Wildlife rehabilitation",
   "Microbial ecology",
   "Population dynamics", 
   "Data analysis"
-
 ]
 
 # Organizational groups that you belong to (for People widget)
